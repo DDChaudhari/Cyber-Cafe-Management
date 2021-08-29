@@ -206,7 +206,7 @@ int main()
 	{
 		system("CLS");
 		cout<<"\t\t\t****************************************\n";
-		cout<<"\t\t\t         WELCOM TO D'CYBER CAFE         \n";
+		cout<<"\t\t\t         WELCOM TO D's CYBER CAFE         \n";
 		cout<<"\t\t\t****************************************\n";
 		cout<<"\t\t\t     Cyber Cafe Management System\n";
 		cout<<"\t\t\t****************************************\n";
